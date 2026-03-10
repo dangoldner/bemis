@@ -16,5 +16,7 @@ green (markdown) is the book, red (AI dialog) and blue (code) are my notes and a
 * [Chapter 6](https://share.solve.it.com/d/51451d24e7842ba219bd572a2d8c800a) - no notes
 * [Chapter 7](https://share.solve.it.com/d/51451d24e7842ba219bd572a2d8c800a) - no notes
 * [Chapter 8](https://share.solve.it.com/d/d53e5e3e46b30c1c541fdb26e486facd)
+* [Chapter 9](https://share.solve.it.com/d/9526599a018a3d29a79b5079c844e841)
+* [Chapter 10](https://share.solve.it.com/d/9526599a018a3d29a79b5079c844e841)
+* [Coda](https://share.solve.it.com/d/47aa4f1bb3e2b0d7c4ffbce2fa28de67)
 
-(That's as far as I've worked through to date.)
